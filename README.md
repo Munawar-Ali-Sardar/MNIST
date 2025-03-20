@@ -1,4 +1,4 @@
-MNIST Classification Project
+#MNIST Classification Project
 
 Overview
 
